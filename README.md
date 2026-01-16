@@ -259,8 +259,8 @@ class Item extends Model {
 1\. Clone the Repository
 
 bash/n  
-git clone https://github.com/\[your-username\]/QuickPlate.git/n  
-cd QuickPlate
+git clone https://github.com/webzappers/Lost-Found.git
+cd Lost-Found
 
 2\. Install Dependencies
 
